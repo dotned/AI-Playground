@@ -17,6 +17,9 @@ class Program
 
         TestBase test;
 
+        test = new Demo00_Prompts(configuration);
+        await test.Go();
+
         //test = new Demo01_InlineFunctions(configuration);
         //await test.Go();
 
