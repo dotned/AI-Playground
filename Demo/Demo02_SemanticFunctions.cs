@@ -14,7 +14,7 @@ internal class Demo02_SemanticFunctions : TestBase
     {
         Console.Clear();
         Console.WriteLine("********************************************************************************");
-        Console.WriteLine("** Native Functions                                                           **");
+        Console.WriteLine("** Semantic Functions                                                         **");
         Console.WriteLine("********************************************************************************");
         Console.WriteLine("Press enter to start...");
         Console.ReadLine();
